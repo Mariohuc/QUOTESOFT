@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <articulos artnum='3000' artdes='Laptop' artprecunit='2500.5' artestreg='A' succod='2000' ciacod='1000' />
+
+    <articulos artnum='3001' artdes='Impresora Laser' artprecunit='6800.00' artestreg='A' succod='2001' ciacod='1000' />
+    
+    <articulos artnum='3002' artdes='PC DESKTOP' artprecunit='900.00' artestreg='A' succod='2003' ciacod='1001'/>
+    
+</dataset>

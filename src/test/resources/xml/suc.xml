@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sucursales succod='2000' sucdes='Sucursal 1 Skibox' sucestreg='A' ciacod='1000'/>
+
+    <sucursales succod='2001' sucdes='Sucursal 2 Skibox' sucestreg='A' ciacod='1000'/>
+    
+    <sucursales succod='2002' sucdes='Sucursal 3 Skibox' sucestreg='A' ciacod='1000'/>
+    
+    <sucursales succod='2003' sucdes='Sucursal 1 NpathNed' sucestreg='A' ciacod='1001'/>
+
+    <sucursales succod='2004' sucdes='Sucursal 2 NpathNed' sucestreg='A' ciacod='1001'/>
+    
+    <sucursales succod='2005' sucdes='Sucursal 3 NpathNed' sucestreg='A' ciacod='1001'/>
+    
+</dataset>
